@@ -39,7 +39,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* Daniela Daza -()
+* Daniela Daza -(https://github.com/DanielaDaza04/DATA-1202_-Assignment-5.git)
 
 ## License
 
