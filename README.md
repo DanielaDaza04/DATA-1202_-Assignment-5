@@ -1,19 +1,50 @@
-# DATA-1202_-Assignment-5
+# Data 1202: Data Analytics Tools
 
-## Project Title
-Lab exercises for Data 1202: Data Analytics Tools, including Python code for SQL database interaction.
+This project contains the code for Lab 6 of the Data 1202 course, focusing on subsetting data using iloc and creating functions in Python.
 
 ## Getting Started
-These instructions will help you set up the environment and run the provided Python code for connecting to a MySQL database and executing queries.
 
 ### Prerequisites
-- **Python**: Make sure Python is installed on your machine.
-- **Libraries**: You will need to install the following Python libraries:
-  - `pandas`
-  - `sqlalchemy`
-  - `pymysql`
+- Python 3.x
+- Jupyter Notebook
+- numpy
+- pandas
 
-You can install these libraries using pip:
+### Installing
+1. pip install numpy pandas:
+## Running the tests
 
-```bash
-pip install pandas sqlalchemy pymysql
+The notebook does not include specific tests but demonstrates the following:
+- Using iloc for subsetting datasets.
+- Creating and using functions in Python.
+
+## Deployment
+
+To run the notebook:
+1. Open Jupyter Notebook:
+2. Navigate to the project directory and open PY_FILE_ASSIGNMENT_5_DANIELA_DAZA_100965831.ipynb.
+
+## Built With
+
+* [NumPy](https://numpy.org/) - Library for numerical computations
+* [Pandas](https://pandas.pydata.org/) - Library for data manipulation and analysis
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* Daniela Daza -()
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Acknowledgments
+
+* Special thanks to the instructor Prof. Omar Al-Arad of Data 1202 for their guidance.
